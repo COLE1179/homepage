@@ -9,7 +9,7 @@ st.sidebar.markdown("[Project designed: standing and siting classification](http
 
 st.header('Cole Abdulazeem')
 st.header('A Senior Machine Learning Engineer')
-st.subheader('Designed the Listed Project')
+st.subheader('Project Collection')
 col1, col2, col3 = st.columns(3)
 
 
